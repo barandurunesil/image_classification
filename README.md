@@ -21,6 +21,6 @@
 
 ## Results
 
-- **Validation accuracy:** 90.5%
+- **Validation accuracy:** ~90.5%
 
 - **Custom test set accuracy:** 85% (17/20 images)
