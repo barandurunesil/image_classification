@@ -1,4 +1,4 @@
-## Image Classification with MobileNetV2
+# Image Classification with MobileNetV2
 
 - This project implements a **multi-class image classification model** using **TensorFlow/Keras** with **MobileNetV2 transfer learning**.
 
