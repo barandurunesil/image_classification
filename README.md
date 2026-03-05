@@ -8,7 +8,7 @@
 
 - Dataset: **Caltech101**
 
-- Source: ```https://www.kaggle.com/datasets/imbikramsaha/caltech-101```
+- Source: https://www.kaggle.com/datasets/imbikramsaha/caltech-101
 
 - **Note:** The **BACKGROUND_Google** class was removed before training.
 
